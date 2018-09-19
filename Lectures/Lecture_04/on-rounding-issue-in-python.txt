@@ -1,0 +1,2 @@
+
+Go to the following link for a more detailed discussion re: rounding conventions in Python: http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html
